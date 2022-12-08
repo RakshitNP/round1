@@ -1,0 +1,4 @@
+A.Reverse search allows ous to go back to history and search for a string within executed commands
+B.ctrl+H is used to display hidden files
+C.Iam average at using linux based OS
+D.No but used XAMP sever for locall Host
